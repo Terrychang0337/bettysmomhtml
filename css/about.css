@@ -1,0 +1,74 @@
+body {
+    min-height: 900px;
+    background: url("../img/about/about_img.jpeg") center center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.img_1 {
+    width: 100%;
+    margin-left: 7%;
+}
+
+.img_2 {
+    width: 50%;
+    right: 0;
+    top: 280px;
+    position: absolute;
+}
+
+.img_3 {
+    width: 50%;
+    margin-left: 9%;
+    left: 0;
+    top: 580px;
+    margin-top: 20px;
+    position: absolute;
+    /* background-color:brown; */
+}
+
+.img_4 {
+    width: 60%;
+    right: 0;
+    top: 770px;
+    position: absolute;
+}
+
+.img_5 {
+    width: 50%;
+    margin-left: 10%;
+    left: 0;
+    top: 940px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.img_6 {
+    width: 65%;
+    right: 0;
+    top: 1180px;
+    position: absolute;
+}
+
+.img_7 {
+    width: 50%;
+    margin-left: 17%;
+    left: 0;
+    top: 1300px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+.img_8 {
+    width: 40%;
+    right: 0;
+    padding-right: 10%;
+    top: 1500px;
+    position: absolute;
+}
+
+.parallax {
+    color: white;
+    font-size: 1.2rem;
+    position: relative;
+}

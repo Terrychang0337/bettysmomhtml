@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_success" value="name:bill_id;datatype:int,name:date;datatype:date,name:account;datatype:string,name:name;datatype:string,name:phonenumber;datatype:string,name:address;datatype:string,name:shipping;datatype:int,name:subprice;datatype:int,name:totalprice;datatype:int" />
+	<infoitem key="UD_rs_successs" value="name:bill_id;datatype:int,name:date;datatype:date,name:account;datatype:string,name:name;datatype:string,name:phonenumber;datatype:string,name:address;datatype:string,name:shipping;datatype:int,name:subprice;datatype:int,name:totalprice;datatype:int" />
+	<infoitem key="UD_rs_successdetail" value="name:billdetail_id;datatype:int,name:bill_id;datatype:int,name:product_id;datatype:int,name:product_name;datatype:string,name:product_price;datatype:int,name:quantity;datatype:int" />
+</info>
